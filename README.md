@@ -1,6 +1,6 @@
 # cyber-cinema
 
-> A Website Film with Vue 2 and Tailwind Css
+> A Website Film with Vue 2 and Bootstrap 4
 
 ## Build Setup
 
